@@ -1,9 +1,9 @@
-Business Health & Growth Dashboard (Excel)
+# Business Health & Growth Dashboard (Excel)
 Objective
 
 Create an executive-level dashboard to monitor revenue, orders, average order value, completion rate, top restaurants, and city-wise performance on a monthly basis, helping management track overall business health and growth.
 
-Key KPIs Used
+# Key KPIs Used
 
 Total Revenue – Total sales amount for the selected period
 
@@ -13,7 +13,7 @@ Average Order Value (AOV) – Revenue ÷ Total Orders
 
 Completed Order Rate (%) – Percentage of successfully completed orders
 
-Visualizations Used
+# Visualizations Used
 
 KPI Cards – Total Revenue, Total Orders, Average Order Value, Completed Order Rate
 
@@ -35,7 +35,7 @@ Created calculated fields for AOV and completion rate
 
 Enabled dynamic filtering using slicers
 
-Tools & Techniques
+# Tools & Techniques
 
 Microsoft Excel
 
@@ -47,7 +47,7 @@ Excel Formulas
 
 Dashboard Design & Formatting
 
-Business Outcome
+# Business Outcome
 
 Provides a quick snapshot of business performance
 
@@ -67,6 +67,6 @@ Business performance reporting
 
 Data visualization & storytelling
 
-Dashboard Inside (Ultra Short – Optional)
+# Dashboard Inside (Ultra Short – Optional)
 
 “Executive Excel dashboard to track revenue, orders, AOV, completion rate, and restaurant performance.”
